@@ -245,9 +245,3 @@ print(le.inverse_transform(x_single_prediction))
 
 Thus a Neural Network Classification Model is created and executed successfully
 
-### New Sample Data Prediction
-
-Include your sample input and output here
-
-## RESULT
-Include your result here
